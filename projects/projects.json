@@ -3688,7 +3688,26 @@
         "Responsive",
         "Cloud"
       ]
-    }
+    },
+    {
+    "name": "SoundYouNeed",
+    "thumb": "soundyouneed/thumb.png",
+    "desc": "Sound You Need was developed to help and improve the experience for searching your favorite music similar on Soundcloud, YouTube and other.",
+    "url": "http://soundyouneed.com",
+    "submitter": "blonboll",
+    "submissionDate": "2015-07-17",
+    "tags": [
+      "Music",
+      "Search",
+      "Play",
+      "REST",
+      "Youtube",
+      "SoundCloud"
+      "jQuery",
+      "JSON",
+      "API"
+    ]
+  }
 
   ]
 }
